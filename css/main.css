@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: orange;
+}
+#game{
+    margin: 5px auto;
+    width: 350px;
+    display: block;
+}
